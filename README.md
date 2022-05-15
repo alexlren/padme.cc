@@ -1,1 +1,1 @@
-# [0.0.6](https://github.com/alexlren/padme-browser/tree/ebacb9fee6fc9403b73a5b721742364906d1eeb8)
+# [0.0.7](https://github.com/alexlren/padme-browser/tree/c4a5df276706031736de6384cf616ad534b8116c)
